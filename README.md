@@ -1,10 +1,10 @@
 # TAP
 
-**Transformer-Based Adversarial Perturbations Model **  
+** Transformer-Based Adversarial Perturbations Model **  
 
 This repository contains the implementation of a transformer-based model for anomaly detection.  
 
-##**Installation**  
+**Installation**  
 
 Ensure you have **Python 3.7** or higher installed. Then, install the required dependencies:  
 
