@@ -1,6 +1,6 @@
 # TAP
 
-** Transformer-Based Adversarial Perturbations Model **  
+# Transformer-Based Adversarial Perturbations Model (TAP)   
 
 This repository contains the implementation of a transformer-based model for anomaly detection.  
 
@@ -13,7 +13,7 @@ pip3 install torch==1.8.1+cpu torchvision==0.9.1+cpu torchaudio===0.8.1 -f https
 pip3 install -r requirements.txt
 
 
-##**Dataset Preprocessing**  
+**Dataset Preprocessing**  
 
 Preprocess the dataset before running the model:  
 
@@ -21,7 +21,7 @@ Preprocess the dataset before running the model:
 python3 preprocess.py <dataset_name>
 
 
-##**Running the Model**  
+**Running the Model**  
 
 To train and evaluate the model on a dataset, use the following command:  
 
