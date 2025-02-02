@@ -1,4 +1,4 @@
-# TAP
+
 
 # Transformer-Based Adversarial Perturbations Model (TAP)   
 
